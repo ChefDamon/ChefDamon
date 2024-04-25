@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @ChefDamon, I'm an aspiring data analyst/ data scientist,
- still really new to it all but the community and new stuff I have been learning is amazing and I hope to land my first job soon.
+- 👋 Hi, I’m @ChefDamon, I'm an pricing anaylist with Sprouts Farmers Market with a focus on the grocery department.
  My background is in culinary arts, got a bachelor's in Applied Food Studies with a focus on anthropology, sustainability, and food policy.
  So far I have completed my Google Data Analytics professional certificate, a course on MySQL for BI on Udemy,
  and I'm currently working on another course on Udemy for R programming.
